@@ -1,0 +1,20 @@
+\begin{thebibliography}{}
+
+\bibitem[Cox et~al., 1979]{Cox1979}
+Cox, J.; Ross, J.~A.; Rubinstein, M. (1979).
+\newblock {Option Pricing: A Simplified Approach}.
+\newblock { Journal of Financial Economics, Vol. 7}, S. 229--263.
+
+\bibitem[Hull, 2000]{Hull2000}
+Hull, J.~C. (2000).
+\newblock { {Options, Futures, and other Derivatives}}.
+\newblock Fourth Edition, Prentice Hall International, Upper Saddle River.
+
+\bibitem[Skantze und Ilic, 2000]{Skantze2000}
+Skantze, P.; Ilic, M. (2000).
+\newblock {The Joint Dynamics of Electricity Spot and Forward Markets:
+  Implications on Formulating Dynamic Hedging Strategies}.
+\newblock { Energy Laboratory Publication MIT EL 00-005, Massachusetts
+  Institute of Technology}.
+
+\end{thebibliography}
