@@ -1,0 +1,126 @@
+region,lga,gps_height_m
+arusha,arusha rural,1429.4480830670927
+arusha,arusha urban,1349.1746031746031
+arusha,karatu,1472.0828220858896
+arusha,longido,1472.3354838709677
+arusha,meru,1302.9653121902875
+arusha,monduli,1155.3280423280423
+arusha,ngorongoro,1740.2686567164178
+dar es salaam,ilala,42.6239307767789
+dar es salaam,kinondoni,68.60215053763442
+dar es salaam,temeke,-11.680561649846425
+dodoma,bahi,1050.636701839827
+dodoma,chamwino,1118.123223690748
+dodoma,dodoma urban,1120.0
+dodoma,kondoa,1120.0
+dodoma,kongwa,949.925598943596
+dodoma,mpwapwa,929.3812282264075
+iringa,iringa rural,1325.4958791208792
+iringa,kilolo,1561.5329512893982
+iringa,ludewa,1516.8581560283687
+iringa,makete,2050.3396825396826
+iringa,mufindi,1731.4692307692308
+iringa,njombe,1769.3711546144627
+kagera,biharamulo,1240.0
+kagera,bukoba rural,1240.0
+kagera,bukoba urban,1240.0
+kagera,chato,1221.0572606504809
+kagera,karagwe,1240.0
+kagera,misenyi,1240.0
+kagera,muleba,1187.6006758659537
+kagera,ngara,1240.0
+kigoma,kasulu,1322.3915950334288
+kigoma,kibondo,1331.6441647597253
+kigoma,kigoma rural,1058.7475728155339
+kigoma,kigoma urban,824.4225352112676
+kilimanjaro,hai,1222.3504
+kilimanjaro,moshi rural,1175.68345323741
+kilimanjaro,moshi urban,821.8354430379746
+kilimanjaro,mwanga,1075.8805394990366
+kilimanjaro,rombo,1413.3989898989898
+kilimanjaro,same,1025.9464082098061
+kilimanjaro,siha,1322.0138248847927
+lindi,kilwa,71.3188775510204
+lindi,lindi rural,109.70207627424122
+lindi,lindi urban,-4.0
+lindi,liwale,435.81168831168833
+lindi,nachingwea,349.14
+lindi,ruangwa,298.46048109965636
+manyara,babati,1401.0939334637965
+manyara,hanang,1613.3722627737227
+manyara,kiteto,1336.3678756476684
+manyara,mbulu,1792.5791245791245
+manyara,simanjiro,1003.711038961039
+mara,bunda,1244.3561643835617
+mara,musoma rural,1275.0025252525252
+mara,rorya,1228.7095238095237
+mara,serengeti,1420.56843575419
+mara,tarime,1514.7129186602872
+mbeya,chunya,1309.817283477149
+mbeya,ileje,1703.3487087625017
+mbeya,kyela,1474.2201499438465
+mbeya,mbarali,1708.0922821007048
+mbeya,mbeya rural,1676.1852724594987
+mbeya,mbozi,1616.3898047045589
+mbeya,rungwe,1572.6557901779543
+morogoro,kilombero,275.8196037539103
+morogoro,kilosa,583.3983456167067
+morogoro,morogoro rural,273.5393474088292
+morogoro,morogoro urban,562.5625
+morogoro,mvomero,438.36661698956783
+morogoro,ulanga,376.29624060150377
+mtwara,masasi,329.01325757575756
+mtwara,mtwara rural,72.09424922988752
+mtwara,mtwara urban,-19.129032258064516
+mtwara,nanyumbu,314.4367088607595
+mtwara,newala,523.4978354978355
+mtwara,tandahimba,278.71804511278197
+mwanza,geita,145.41686022238304
+mwanza,ilemela,507.15896897691175
+mwanza,kwimba,141.93068987749683
+mwanza,magu,137.68880474857912
+mwanza,missungwi,185.40191599770944
+mwanza,nyamagana,141.9306898774984
+mwanza,sengerema,141.9306898774978
+mwanza,ukerewe,1197.3225806451612
+pwani,bagamoyo,117.7893376337889
+pwani,kibaha,84.3277571251549
+pwani,kisarawe,195.29596412556054
+pwani,mafia,-23.553030303030305
+pwani,mkuranga,35.80893752543753
+pwani,rufiji,40.232702153721704
+rukwa,mpanda,1145.4830633284241
+rukwa,nkasi,1438.392523364486
+rukwa,sumbawanga rural,1547.3320537428024
+rukwa,sumbawanga urban,1887.1722222222222
+ruvuma,mbinga,1001.8386666666667
+ruvuma,namtumbo,872.8515850144092
+ruvuma,songea rural,1019.5974025974026
+ruvuma,songea urban,1100.675
+ruvuma,tunduru,553.4326241134752
+shinyanga,bariadi,396.2175863208502
+shinyanga,bukombe,44.47230028101202
+shinyanga,kahama,44.472300281012515
+shinyanga,kishapu,44.47230028101164
+shinyanga,maswa,44.47230028101249
+shinyanga,meatu,54.04329324534325
+shinyanga,shinyanga rural,44.47230028101218
+shinyanga,shinyanga urban,44.472300281011535
+singida,iramba,1371.0036764705883
+singida,manyoni,1166.4615384615386
+singida,singida rural,1519.1195979899499
+singida,singida urban,1516.2542372881355
+tabora,igunga,1168.0024069802432
+tabora,nzega,1233.0
+tabora,sikonge,1175.8022022602145
+tabora,tabora urban,1141.4303219374135
+tabora,urambo,1181.1222399271558
+tabora,uyui,1233.0
+tanga,handeni,427.59842519685037
+tanga,kilindi,538.6325088339219
+tanga,korogwe,484.47189885945875
+tanga,lushoto,1439.0273775216137
+tanga,mkinga,538.6325088339219
+tanga,muheza,212.07185628742516
+tanga,pangani,23.085014464802313
+tanga,tanga,57.0
